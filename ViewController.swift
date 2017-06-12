@@ -3,7 +3,7 @@
 //  comeonbro
 //
 //  Created by Prabhav on 12/6/17.
-//  Copyright © 2017 Prabhav. All rights reserved.
+//  Copyright © 2017 Prabhav. All rights reserved. NOT BITCH
 //
 
 import UIKit
